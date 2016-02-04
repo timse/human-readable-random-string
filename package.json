@@ -1,8 +1,8 @@
 {
   "name": "human-readable-random-string",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "randomly generates a human readable strings",
-  "main": "hrs.js",
+  "main": "hrrs.js",
   "scripts": {
     "build": "webpack",
     "build:production": "webpack -p",
